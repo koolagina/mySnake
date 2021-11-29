@@ -1,0 +1,15 @@
+C:\Users\koola\mySnake\MySnake\bin\Debug\net6.0\MySnake.exe
+C:\Users\koola\mySnake\MySnake\bin\Debug\net6.0\MySnake.deps.json
+C:\Users\koola\mySnake\MySnake\bin\Debug\net6.0\MySnake.runtimeconfig.json
+C:\Users\koola\mySnake\MySnake\bin\Debug\net6.0\MySnake.dll
+C:\Users\koola\mySnake\MySnake\bin\Debug\net6.0\ref\MySnake.dll
+C:\Users\koola\mySnake\MySnake\bin\Debug\net6.0\MySnake.pdb
+C:\Users\koola\mySnake\MySnake\obj\Debug\net6.0\MySnake.csproj.AssemblyReference.cache
+C:\Users\koola\mySnake\MySnake\obj\Debug\net6.0\MySnake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\koola\mySnake\MySnake\obj\Debug\net6.0\MySnake.AssemblyInfoInputs.cache
+C:\Users\koola\mySnake\MySnake\obj\Debug\net6.0\MySnake.AssemblyInfo.cs
+C:\Users\koola\mySnake\MySnake\obj\Debug\net6.0\MySnake.csproj.CoreCompileInputs.cache
+C:\Users\koola\mySnake\MySnake\obj\Debug\net6.0\MySnake.dll
+C:\Users\koola\mySnake\MySnake\obj\Debug\net6.0\ref\MySnake.dll
+C:\Users\koola\mySnake\MySnake\obj\Debug\net6.0\MySnake.pdb
+C:\Users\koola\mySnake\MySnake\obj\Debug\net6.0\MySnake.genruntimeconfig.cache
